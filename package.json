@@ -1,5 +1,5 @@
 {
-  "name": "@saraf/iron-core",
+  "name": "@sarafapp/iron-core",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.ts",
