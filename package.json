@@ -26,6 +26,5 @@
   },
   "keywords": ["vue", "frontend", "axios", "typescript", "package"],
   "author": "Saraf",
-  "license": "ISC",
-  "private": false
+  "license": "MIT"
 }
