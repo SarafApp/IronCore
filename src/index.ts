@@ -9,3 +9,5 @@ export * from "./constants/index";
 export * from "./debounce/index";
 export * from "./repository/index";
 export * from "./sort/index";
+export * from "./Utils";
+export * from "./BaseModel";
