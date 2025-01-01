@@ -2,9 +2,9 @@
   "name": "@sarafapp/iron-core",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/index.ts",
+  "main": "index.ts",
   "bin": {
-    "my-package-setup": "./dist/cli.ts"
+    "my-package-setup": "./src/cli.ts"
   },
   "repository": {
     "type": "git",
